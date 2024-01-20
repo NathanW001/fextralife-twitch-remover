@@ -11,7 +11,8 @@
   "content_scripts": [
     {
       "matches": ["https://*.wiki.fextralife.com/*"],
-      "js": ["remove_html.js"]
+      "js": ["remove_html.js"],
+      "run_at": "document_start"
     }
   ]
 }

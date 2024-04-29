@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "FextraLife Twitch Remover",
-  "description": "Removes Twitch embed and reformats sidebar on the FextraLife Wiki website",
+  "name": "FextraLife Stream Remover",
+  "description": "Removes stream embed and reformats sidebar on the FextraLife Wiki website",
   "version": "1.0",
   "icons": {
     "16": "icon_16.png",
@@ -14,5 +14,12 @@
       "js": ["remove_html.js"],
       "run_at": "document_start"
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "nathanw001@fextralife_stream_remover",
+      "strict_min_version": "48.0"
+    }
+  }
+  
 }

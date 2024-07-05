@@ -12,4 +12,4 @@ addEventListener("DOMContentLoaded", () => {
     item.remove();
   });
   parent.style.setProperty("width", "0px")
-});
+}); 

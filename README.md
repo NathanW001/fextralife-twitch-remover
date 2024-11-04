@@ -4,4 +4,4 @@ Available on Chrome and Firefox stores.  If you have any issues with this extens
 
 Chrome store: [here](https://chromewebstore.google.com/detail/fextralife-stream-remover/ocpijhongeajhiojjkhnkaanjmhkkmoo) 
 
-Firefox store: [here](https://addons.mozilla.org/en-CA/firefox/addon/fextralife-stream-remover/) (awaiting approval)
+Firefox store: [here](https://addons.mozilla.org/en-CA/firefox/addon/fextralife-stream-remover/)
